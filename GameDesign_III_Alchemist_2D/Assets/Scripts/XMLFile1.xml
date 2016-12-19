@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<item>
+  <item id="3" name="posion">
+    <mix itemmix1="1" itemmix2="2">
+    </mix>
+    
+  </item>
+</item>
